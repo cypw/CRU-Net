@@ -13,7 +13,7 @@ This repository contains the code and trained models of "Sharing Residual Units 
 | Random HSL     | [20,40,50] |
 
 > Note: 
-> We did not use PCA Lighting and another advanced augmentation methods.
+> We did not use PCA Lighting and any other advanced augmentation methods.
 
 ### Normalization
 
