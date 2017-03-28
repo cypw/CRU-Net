@@ -33,7 +33,7 @@ CRU-Net-56 @x14|136x1d|98MB|21.7%
 CRU-Net-116 @x28x14|32x4d|168MB|20.6%
 CRU-Net-116, wider @x28x14|64x4d|318MB|20.3%
 
-We also trained a tiny CRU-Net-56 with less than half the size of ResNet-56.
+We also trained a tiny CRU-Net-56 with less than half the size of ResNet-50.
 
 **Single crop validation error (center 224x224 crop from resized image with shorter side=256):**
 
