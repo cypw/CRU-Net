@@ -44,7 +44,7 @@ CRU-Net-56,tiny @x14|32x4d|48MB|22.9%
 
 ### Places365-Standard
 
-**10-crop validation error (averaging softmax scores of 10 224x224 crops from resized image with shorter side=256):**
+**10-crop validation accuracy (averaging softmax scores of 10 224x224 crops from resized image with shorter side=256):**
 
 Model|Setting|Model Size|Top-1
 :----|------:|---------:|:---:
